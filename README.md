@@ -5,5 +5,7 @@ A group of data science projects that cover multiple practical issues of data mo
 
 
 Notes
+
 Installed H2o.ai
+
 Installed Java JDK-8
