@@ -2,17 +2,20 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
-
 from sklearn import datasets
 
+import sys
+sys.path.append('/Users/jimyang/Dropbox/Projects/data-science-practice/mlfromscratch')
+
+# Import helper functions
 from utils import normalize, make_diagonal, train_test_split
 from utils import accuracy_score
 from utils import Plot
-from regression import LinearRegression, LassoRegression
-from logistic_regression import LogisticRegression
+from supervised_learning.regression import LinearRegression, LassoRegression
+from supervised_learning.logistic_regression import LogisticRegression
 
 def test_0():
-    advertising = pd.read_csv('data/Advertising.csv')
+    advertising = pd.read_csv('../data/Advertising.csv')
     print(advertising.info())
     sns.regplot(advertising.TV, advertising.sales, order=1, ci=None, scatter_kws={'color':'r', 's':9})
     plt.xlim(-10,310)
@@ -20,7 +23,7 @@ def test_0():
     plt.show()
 
 def test_linearRegression():
-    data = pd.read_csv('data/TempLinkoping2016.txt', sep="\t")
+    data = pd.read_csv('../data/TempLinkoping2016.txt', sep="\t")
     print(data.shape)
 
     X = np.array(data['time']).reshape((-1, 1))

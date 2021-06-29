@@ -16,6 +16,17 @@ class l1_regularization():
     def grad(self, w):
         return self.alpha * np.sign(w)
 
+class l2_regularization():
+    """ Regularization for Ridge Regression """
+    def __init__(self, alpha):
+        self.alpha = alpha
+    
+    def __call__(self, w):
+        return self.alpha * 0.5 *  w.T.dot(w)
+
+    def grad(self, w):
+        return self.alpha * w
+
 class Regression(object):
     """ Base regression model. Models the relationship between a scalar dependent variable y and the independent 
     variables X. 
@@ -114,5 +125,36 @@ class LassoRegression(Regression):
     def predict(self, X):
         X = normalize(polynomial_features(X, degree=self.degree))
         return super(LassoRegression, self).predict(X)
+
+
+
+class PolynomialRidgeRegression(Regression):
+    """Similar to regular ridge regression except that the data is transformed to allow
+    for polynomial regression.
+    Parameters:
+    -----------
+    degree: int
+        The degree of the polynomial that the independent variable X will be transformed to.
+    reg_factor: float
+        The factor that will determine the amount of regularization and feature
+        shrinkage. 
+    n_iterations: float
+        The number of training iterations the algorithm will tune the weights for.
+    learning_rate: float
+        The step length that will be used when updating the weights.
+    """
+    def __init__(self, degree, reg_factor, n_iterations=3000, learning_rate=0.01, gradient_descent=True):
+        self.degree = degree
+        self.regularization = l2_regularization(alpha=reg_factor)
+        super(PolynomialRidgeRegression, self).__init__(n_iterations, 
+                                                        learning_rate)
+
+    def fit(self, X, y):
+        X = normalize(polynomial_features(X, degree=self.degree))
+        super(PolynomialRidgeRegression, self).fit(X, y)
+
+    def predict(self, X):
+        X = normalize(polynomial_features(X, degree=self.degree))
+        return super(PolynomialRidgeRegression, self).predict(X)
         
 
