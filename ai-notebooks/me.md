@@ -15,7 +15,7 @@ This summer I'm very happy to have Vanessa Kwarteng in my team working on the ca
 
 Today I hope I can provide some useful infomation for your internship in MRGR. 
 
-===
+---
 
 **Can you elaborate how you have changed over the years working at JPM? What have you learned form your work? 
 From asso to VP, are there any changes in terms of your attitude or responsibility that you want ot share with us?**
@@ -34,17 +34,17 @@ maybe I can mention a bit about the learning oppotunities in JP and MRGR, assumi
 
 Now come back to myself.
 
-When I just came out of the school, I focused a lot on the testing I was told to perform, and the tasks I was assigned, 
-I gradually got more and more comfortable with the technical skills needed in day-to-day job.
+When I just came out of the school, I focused a lot on the testing I was told to do, and the tasks I was assigned, 
+Gradually I got more and more comfortable with the technical skills needed in day-to-day job.
 
-While, over the years, it has become increasingly clearer to me that communication is the key to an effective workplace, the success of our group.
-When I was a junior in the team, most of my communication was with your managers and team members, who usually shared the same 
-perspective with me. our disagreements if any are mostly on the technical details.
+However, over the years, it has become increasingly clearer to me that communication is the key to an effective workplace, and the success of our group.
+When I was a junior in the team, most of my communication was with my manager and team members, who usually shared the same 
+perspective with me. we were usually on the same side of a debat. our disagreements if any were mostly on the technical details.
 
-Then gradually I had to present and explain your review findings and testing results in front of a broader audiance. 
-In many cases people could have different views or conclusion with respect to analysis results.
+Then I had to present and explain your review findings and testing results to a broader audiance. 
+In many cases people could have different views and conclusions with respect to analysis results.
 It forced me to learn how to understand and respect their point of view. 
-at the same time, pushes you to understand the models, the business and the regulatory requirements better. 
+at the same time, it pushed you to understand the models, the business, review policy and the regulatory requirements better. 
 and think from their perspectives. 
 
 It could take hours even days just pondering other stakeholder's arguments, or just trying to figure out
@@ -53,8 +53,12 @@ how to articulate and convey my arguments effectively.
 On that I want to say
 our management did give us a lot support and advice such as on how to build strong relationship with the stakeholders on a daily basis. 
 If we can know and understand the concerns from different stakeholders like model users, market risks, in the early stage of the
-review, it can make our job much easier.
+review, it can possibly make our job much easier.
 
+I did learnt a lot in MRG over the years, but I want to highlight the importance of both written and verbal communication which most new graduates may overlook.
+with that, I don't know if others have anything to add. 
+
+---
 
 **What are career mobility opportunities in MRG**
 
@@ -69,6 +73,20 @@ In terms of career development and career choice, I would say our management do 
 one model submission was delayed I had two months
 meanwhile my manager told me that the wholesale team was busy to meet the CCAR deadline, 
 
+---
+
+**Networking**
+
+I'm not an expert on networking, but I can give you an example of mine that you should not follow. 
+Back in school, when I talked to someone from industry, I always made it like a QA session. 
+Now I feel it's not the best way to network. 
+
+You want it to be like a real conversatison, try to explain your interest, the projects you did well; and hopefully, 
+you will have mutual interst after the networking. 
+
+from that stand of point, I don't see obvious downside of using zoom, 
+because the quality of the conversation is more important than whether it's remote or face-to-face.
+actually, now you can talk to people in jersey, nyc, brooklyin offices much easier. 
 
 
 
