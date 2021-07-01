@@ -62,16 +62,17 @@ with that, I don't know if others have anything to add.
 
 **What are career mobility opportunities in MRG**
 
-I felt there are many mobility oppotunities in MRG, including the oppotunities from QR, MRQR. 
-I do know some colleagues moved to QR or MR, and some joined MRG from those groups.
+I felt there are many mobility oppotunities in MRG, including the oppotunities from QR, MRQR.
+I do know some colleagues moved to QR, MR, AM, and many joined MRG from those groups.
 
-Within MRGR I think we definetely have more such oppotunities, 
-We have internal job openning portal. 
-it's totally ok to talk to the team that you are interested in about the job opennings. 
-In terms of career development and career choice, I would say our management do respect us a lot. 
+Within MRGR I think we definetely have more mobility oppotunities. We have internal job openning portal. 
+It's totally ok to talk to the team that you are interested in about the job opennings. 
+In terms of career development and career advice, I would say our management do respect us a lot. 
+Senior managers hold office hours from time to time, and they are quite open minded about discussing the mobility topic or internal oppotunities. 
 
-one model submission was delayed I had two months
-meanwhile my manager told me that the wholesale team was busy to meet the CCAR deadline, 
+Also, especially for junior people here, you usually will have more chances to work on the projects from different team. 
+I personally had the chance to  work with our london team and wholesale team for ccar models. 
+these may also open some internal mobility oppotunities for you. 
 
 ---
 
