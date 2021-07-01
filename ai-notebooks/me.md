@@ -1,4 +1,4 @@
-- Introduction
+**Introduction** 
 Hello I'm Z, from C's group.
 
 I joined MRG in late 2015, right after I finished my graduate study in Physics.
@@ -17,21 +17,21 @@ I hope I can provide some helpful infomation for your internship in MRGR today.
 
 ---
 
-- Can you elaborate how you have changed over the years working at JPM? What have you learned form your work? From asso to VP, are there any changes in terms of your attitude or responsibility that you want ot share with us?
+**Can you elaborate how you have changed over the years working at JPM? What have you learned form your work? From asso to VP, are there any changes in terms of your attitude or responsibility that you want ot share with us?**
 
 Before I start to reflect on my growth over the past years
 maybe I can mention a bit about the learning oppotunities in JP and MRGR, assuming many people are interested. 
 
-  * JP offers a lot of training programs for different levels and business lines. 
+  - JP offers a lot of training programs for different levels and business lines. 
   For example, every year we have two-week all-day QR training for new joiners.
   Our colleagues from QR, MRQR, MR and Trading will give lectures covering all the topics relevant to their day-to-day job and business.
-  * Firmwide we have on-site and remote training on leadership, writing skills, communication, every month and you are always encouraged to 
+  - Firmwide we have on-site and remote training on leadership, writing skills, communication, every month and you are always encouraged to 
   sign up. 
-  * MRGR also offers training programs every year, I just received a sign-up email for 2 month machine learning training offered by Pavan's group. 
-  * We also have Lunch and Learn series, mentor program. 
+  - MRGR also offers training programs every year, I just received a sign-up email for 2 month machine learning training offered by Pavan's group. 
+  - We also have Lunch and Learn series, mentor program. 
   There are a ton for oppotunities to learn. 
 
-- Now come back to myself.
+Now come back to myself.
 
 When I just came out of the school, I focused a lot on the testing I was told to perform, and the tasks I was assigned.
 [comment]: <> Also by participating in those training programs I mentioned, and with the help from my colleagues, managers, 
