@@ -1,4 +1,5 @@
 **Introduction** 
+
 Hello I'm Z, from C's group.
 
 I joined MRG in late 2015, right after I finished my graduate study in Physics.
@@ -15,7 +16,7 @@ and this summer I'm very happy to have Vanessa Kwarteng in my team and work on t
 
 I hope I can provide some helpful infomation for your internship in MRGR today. 
 
----
+===
 
 **Can you elaborate how you have changed over the years working at JPM? What have you learned form your work? 
 From asso to VP, are there any changes in terms of your attitude or responsibility that you want ot share with us?**
@@ -51,13 +52,27 @@ and think from their perspectives.
 sometimes it takes a few hours, a few days, pondering your counterparty's arguments.  
 how to articulate and convey my arguments effectively. 
 
-sometime we can break down a big problem
 my manager also gave me good advice on how to build strong relationship with 
-the stakeholders 
-on a daily basis. 
+the stakeholders on a daily basis. 
 
+If we can know and understand the concerns from different stakeholders like model users, market risks, in the early stage of the
+review, 
 
 The nature of our job involves a lot of technical details
+
+**What are career mobility opportunities in MRG**
+
+I felt there are many mobility oppotunities in MRG, including the oppotunities from QR, MRQR. 
+I do know some colleagues moved to QR or MR, and some joined MRG from those groups.
+
+Within MRGR I think we definetely have more such oppotunities, 
+We have internal job openning portal. 
+it's totally ok to talk to the team that you are interested in about the job opennings. 
+In terms of career development and career choice, I would say our management do respect us a lot. 
+
+one model submission was delayed I had two months
+meanwhile my manager told me that the wholesale team was busy to meet the CCAR deadline, 
+
 
 
 
