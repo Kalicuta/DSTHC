@@ -5,16 +5,15 @@ Hello I'm Z, from C's group.
 I joined MRG in late 2015, right after I finished my graduate study in Physics.
 I spent my first two years or so working on commodity valuation models. 
 Then I moved to the current group 
-firstly reviewing the models for Asset Management group.
-and currently are responsible for the CIB credit models for corporate bonds, loans and other cash products.
+firstly reviewing the vendor models for Asset Management group covering a wide range of the asset classes. 
+and currently I'm responsible for the CIB credit models for corporate bonds, loans and other cash products.
 
 I didn't have the chance to do an internship here in JP; 
-I did see many summer interns in the past years
-returned as full time associates after the internship.
-I also worked with interns on different projects,
-and this summer I'm very happy to have Vanessa Kwarteng in my team and work on the callable bond review project. 
+But I worked with interns on different projects,
+I saw many summer interns in the past years returned as full time associates after their internship.
+This summer I'm very happy to have Vanessa Kwarteng in my team working on the callable bond review project. 
 
-I hope I can provide some helpful infomation for your internship in MRGR today. 
+Today I hope I can provide some useful infomation for your internship in MRGR. 
 
 ===
 
@@ -29,7 +28,7 @@ maybe I can mention a bit about the learning oppotunities in JP and MRGR, assumi
   Our colleagues from QR, MRQR, MR and Trading will give lectures covering all the topics relevant to their day-to-day job and business.
   - Firmwide we have on-site and remote training on leadership, writing skills, communication, every month and you are always encouraged to 
   sign up. 
-  - MRGR also offers training programs every year, I just received a sign-up email for 2 month machine learning training offered by Pavan's group. 
+  - MRGR also offers training programs regularly, I just received a sign-up email for 2 month machine learning training offered by Pavan's group. 
   - We also have Lunch and Learn series, mentor program. 
   There are a ton for oppotunities to learn. 
 
@@ -39,26 +38,23 @@ When I just came out of the school, I focused a lot on the testing I was told to
 I gradually got more and more comfortable with the technical skills needed in day-to-day job.
 
 While, over the years, it has become increasingly clearer to me that communication is the key to an effective workplace, the success of our group.
-When I was a junior in the team, most of your communication was with your managers and team members, who usually shared the same 
-perspective. 
+When I was a junior in the team, most of my communication was with your managers and team members, who usually shared the same 
+perspective with me. our disagreements if any are mostly on the technical details.
 
 Then gradually I had to present and explain your review findings and testing results in front of a broader audiance. 
-In many cases people could have different views or conclusion with respect to my findings. 
-It forced me to learn how to 
-understand and respect their point of view. 
-push you to understand the models, the business and the regulatory requirements better. 
+In many cases people could have different views or conclusion with respect to analysis results.
+It forced me to learn how to understand and respect their point of view. 
+at the same time, pushes you to understand the models, the business and the regulatory requirements better. 
 and think from their perspectives. 
 
-sometimes it takes a few hours, a few days, pondering your counterparty's arguments.  
+It could take hours even days just pondering other stakeholder's arguments, or just trying to figure out
 how to articulate and convey my arguments effectively. 
 
-my manager also gave me good advice on how to build strong relationship with 
-the stakeholders on a daily basis. 
-
+On that I want to say
+our management did give us a lot support and advice such as on how to build strong relationship with the stakeholders on a daily basis. 
 If we can know and understand the concerns from different stakeholders like model users, market risks, in the early stage of the
-review, 
+review, it can make our job much easier.
 
-The nature of our job involves a lot of technical details
 
 **What are career mobility opportunities in MRG**
 
