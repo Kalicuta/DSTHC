@@ -15,10 +15,6 @@ and this summer I'm very happy to have Vanessa Kwarteng in my team and work on t
 
 I hope I can provide some helpful infomation for your internship in MRGR today. 
 
-
-two-way .. 
-from a manager's perspective, want to show that JPM and MRG is a great .. 
-
 ---
 
 - Can you elaborate how you have changed over the years working at JPM? What have you learned form your work? From asso to VP, are there any changes in terms of your attitude or responsibility that you want ot share with us?
@@ -26,22 +22,27 @@ from a manager's perspective, want to show that JPM and MRG is a great ..
 Before I start to reflect on my growth over the past years
 maybe I can mention a bit about the learning oppotunities in JP and MRGR, assuming many people are interested. 
 
-    - JP offers a lot of training programs for different levels and business lines. 
-    For example, every year we have two-week all-day QR training for new joiners.
-    Our colleagues from QR, MRQR, MR and Trading will give lectures covering all the topics relevant to their day-to-day job and business.
-    - Firmwide we have on-site and remote training on leadership, writing skills, communication, every month and you are always encouraged to 
-    sign up. 
-    - MRGR also offers training programs every year, I just received a sign-up email for 2 month machine learning training offered by Pavan's group. 
-    - We also have Lunch and Learn series, mentor program. 
-    There are a ton for oppotunities to learn. 
+  * JP offers a lot of training programs for different levels and business lines. 
+  For example, every year we have two-week all-day QR training for new joiners.
+  Our colleagues from QR, MRQR, MR and Trading will give lectures covering all the topics relevant to their day-to-day job and business.
+  * Firmwide we have on-site and remote training on leadership, writing skills, communication, every month and you are always encouraged to 
+  sign up. 
+  * MRGR also offers training programs every year, I just received a sign-up email for 2 month machine learning training offered by Pavan's group. 
+  * We also have Lunch and Learn series, mentor program. 
+  There are a ton for oppotunities to learn. 
 
 - Now come back to myself.
 
 When I just came out of the school, I focused a lot on the testing I was told to perform, and the tasks I was assigned.
- Also by participating in those training programs I mentioned, and with the help from my colleagues, managers, 
+[comment]: <> Also by participating in those training programs I mentioned, and with the help from my colleagues, managers, 
 I was just getting more and more comfortable with the technical skills needed in day-to-day job.
 
-dfd
+while, over the years, it has become increasingly clearer to me that
+communication is the key to an effective workplace, the success of our group.
+
+
+
+
 I grow gradually awareness that I was not in an isolated team but a stakeholder that really needs to continuously and effectively communicate with 
 people from many different teams,  
 
@@ -56,6 +57,9 @@ sometimes it takes a few hours, a few days, pondering your counterparty's argume
 push you to understand the models and the business better. 
 
 
+
+two-way .. 
+from a manager's perspective, want to show that JPM and MRG is a great .. 
 
 
 
