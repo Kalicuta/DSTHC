@@ -91,38 +91,3 @@ actually, now you can talk to people in jersey, nyc, brooklyin offices much easi
 
 
 
-<!---
-
-communication 
- - benchmarking testing, communicate with QR
-
-
-two-way .. 
-from a manager's perspective, want to show that JPM and MRG is a great .. 
-
-
-After worked on more and more projects and see more models, read more review reports from more experienced colleagues,
-gradually 
-grow more sense in terms of what all the stakeholders' perspectives, what's QR's concern, 
-
-
-
-find problem, deal with them 
-
-
-all models are wrong, but some are useful
-
-use that projects as the step stones to ... 
-constantly ask yourself if you could do better if you had more time or resource. 
-
-
-
-training
-
-
-
-trading models -> forecasting models.
-
---->
-
-
